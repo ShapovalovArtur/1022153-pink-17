@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Артур Шаповалов](https://up.htmlacademy.ru/adaptive/17/user/1022153).
-* Наставник: `Неизвестно`.
+* Наставник: [Михаил Поданев](https://htmlacademy.ru/profile/mpodanev).
 
 ---
 
